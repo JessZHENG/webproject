@@ -29,7 +29,7 @@ class WebprojectApplicationTests {
                 "And nodding by the fire,take down this book"));
         informationRepository.save(new Information("2020保研条例",
                 "2020年新的保研条例",
-                "保研的必须是个人！哈哈哈！"));
+                "保研的必须是个人！哈哈！"));
 
     }
 
